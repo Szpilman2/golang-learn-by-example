@@ -10,7 +10,7 @@ Slices
 Maps
 Functions -> done.
 Multiple Return Values -> done.
-Variadic Functions
+Variadic Functions -> done.
 Closures
 Recursion
 Range over Built-in Types
