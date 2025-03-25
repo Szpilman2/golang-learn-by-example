@@ -11,8 +11,8 @@ Maps -> done.
 Functions -> done.
 Multiple Return Values -> done.
 Variadic Functions -> done.
-Closures
-Recursion
+Closures -> done.
+Recursion -> done.
 Range over Built-in Types
 Pointers
 Strings and Runes
