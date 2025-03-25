@@ -7,7 +7,7 @@ If/Else -> done.
 Switch -> done.
 Arrays -> done.
 Slices -> done.
-Maps
+Maps -> done.
 Functions -> done.
 Multiple Return Values -> done.
 Variadic Functions -> done.
